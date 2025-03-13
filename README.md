@@ -102,4 +102,3 @@ The delete_client function deletes a client from the database based on the clien
 Running the Script
 Save the script to a file named client_database.py.
 Run the script using the command: python client_database.py.
-12345
